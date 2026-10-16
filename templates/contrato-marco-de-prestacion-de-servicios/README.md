@@ -52,7 +52,7 @@ Es un contrato entre dos empresas que fija las reglas generales para que una (el
 | Ley Federal de Protección a la Propiedad Industrial (LFPPI) | 163 | Definición de secreto industrial | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf |
 | LFPDPPP (DOF 20-03-2025) | (sin número) | Datos personales: responsable y encargado | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf |
 | Constitución (CPEUM) | 5 | Libertad de trabajo (límite a la no solicitación) | https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf |
-| Ley Federal de Competencia Económica | (sin número) | Acuerdos entre competidores (cuidado con pactos de no contratación) | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf |
+| Ley Federal de Competencia Económica (nueva ley, DOF 16-07-2025; autoridad: Comisión Nacional Antimonopolio) | (sin número) | Acuerdos entre competidores (cuidado con pactos de no contratación) | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf |
 | NOM-151-SCFI-2016 | — | Conservación de mensajes de datos | (consulta en el DOF: https://www.dof.gob.mx) |
 
 Otras fuentes oficiales útiles:

@@ -33,6 +33,7 @@ Fecha de esta revisión: **16 de octubre de 2026**.
 | Ley del Seguro Social | LSS | https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf | Alta en el IMSS |
 | Ley General de Sociedades Mercantiles | LGSM | https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf | Acciones para asesores |
 | Ley del Mercado de Valores | LMV | https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf | S.A.P.I. |
+| Ley Federal de Competencia Económica (DOF 16-07-2025) | LFCE | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf | Pactos de no contratación entre empresas |
 | Código Nacional de Procedimientos Civiles y Familiares | CNPCF | https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf | Juicios civiles (entrada en vigor gradual) |
 
 ## Decretos de reforma recientes
@@ -56,6 +57,7 @@ Fecha de esta revisión: **16 de octubre de 2026**.
 | IMSS | Seguridad social | https://www.imss.gob.mx |
 | SAT | Facturas e impuestos | https://www.sat.gob.mx |
 | Profeco | Derechos del consumidor | https://www.gob.mx/profeco |
+| Comisión Nacional Antimonopolio | Competencia económica (sustituye a la COFECE) | https://www.antimonopolio.gob.mx |
 | IMPI | Marcas, patentes y secretos industriales | https://www.gob.mx/impi |
 | Indautor | Derechos de autor | https://www.gob.mx/indautor |
 | Guía «El ABC del Aviso de Privacidad» | Datos personales | https://www.gob.mx/cms/uploads/attachment/file/866123/01_El_ABC_del_Aviso_de_Privacidad.pdf |
