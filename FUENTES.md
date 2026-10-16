@@ -43,6 +43,7 @@ Fecha de esta revisión: **16 de octubre de 2026**.
 | Nueva LFPDPPP – DOF 20-03-2025 (texto original) | https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp/LFPDPPP_orig_20mar25.pdf |
 | Reforma constitucional de 40 horas – DOF 03-03-2026 | https://www.dof.gob.mx/nota_detalle.php?codigo=5781417&fecha=03/03/2026 |
 | Reforma a la LFT de 40 horas – DOF 01-05-2026 | https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.pdf |
+| Reforma a la LFPC (art. 76 Bis, renovaciones automáticas) – DOF 12-12-2025 | https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc/LFPC_ref33_12dic25.pdf |
 | Historial de reformas de la LFT | https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm |
 | Historial de reformas de la LFPDPPP | https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm |
 

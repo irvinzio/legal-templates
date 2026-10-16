@@ -227,7 +227,7 @@ c) <mark>[ELIGE UNA OPCIÓN]</mark>
 - **Opción A:** Los límites de responsabilidad del Contrato Principal **no aplican** a los incumplimientos de las cláusulas de confidencialidad, seguridad, vulneraciones o tratamiento sin instrucciones.
 - **Opción B:** La responsabilidad de EL ENCARGADO por este contrato tendrá un límite de <mark>[MONTO O FÓRMULA, por ejemplo «tres veces lo pagado en los últimos 12 meses»]</mark>, excepto en casos de dolo, mala fe o negligencia grave.
 
-d) <mark>[OPCIONAL]</mark> **Pena convencional.** Si EL ENCARGADO usa los datos para fines propios o los transfiere sin autorización, pagará a EL RESPONSABLE una pena convencional de <mark>[MONTO]</mark>, conforme al artículo 1840 del Código Civil Federal, sin perjuicio de <mark>[ELIGE: reclamar además los daños y perjuicios que se prueben / ser la única indemnización por ese incumplimiento]</mark>.
+d) <mark>[OPCIONAL]</mark> **Pena convencional.** Si EL ENCARGADO usa los datos para fines propios o los transfiere sin autorización, pagará a EL RESPONSABLE una pena convencional de <mark>[MONTO]</mark>, conforme al artículo 1840 del Código Civil Federal. Esta pena sustituye a los daños y perjuicios por ese mismo incumplimiento: por el mismo hecho no se pueden cobrar la pena y además daños y perjuicios. Si EL RESPONSABLE prefiere cobrar los daños y perjuicios que pueda probar, debe borrar este inciso.
 
 e) <mark>[OPCIONAL]</mark> **Seguro.** EL ENCARGADO mantendrá un seguro de responsabilidad por riesgos cibernéticos con una suma asegurada mínima de <mark>[MONTO]</mark> durante la vigencia de este contrato.
 
@@ -386,7 +386,7 @@ Leído el presente contrato y enteradas LAS PARTES de su contenido y alcance, lo
 *Borra esta sección antes de firmar.*
 
 1. **¿Eres responsable o encargado?** Si tu empresa SaaS solo guarda y procesa lo que tus clientes suben, normalmente eres encargado y tu cliente es responsable. Pero para los datos de tus propios clientes (por ejemplo, la persona que te paga), eres responsable. Puede que necesites ambos papeles en contratos distintos.
-2. **Reemplaza al DPA y al BAA.** Si un cliente extranjero te pide un DPA, este contrato cubre lo que exige la ley mexicana. Si tu cliente también está sujeto a leyes de otros países (por ejemplo, de la Unión Europea), puede necesitar cláusulas adicionales. Si te piden un BAA por HIPAA, explica que en México los datos de salud son datos sensibles bajo la LFPDPPP y activa la cláusula SÉPTIMA.
+2. **Solo ley mexicana.** Si un cliente extranjero te pide un DPA, este contrato cubre lo que exige la ley mexicana. Si tu cliente también está sujeto a leyes de otros países (por ejemplo, de la Unión Europea), puede necesitar cláusulas adicionales. Si te piden un BAA porque tu cliente está sujeto a HIPAA (EE. UU.), este contrato **no lo sustituye**: activa la cláusula SÉPTIMA para cumplir la ley mexicana y pide a tu cliente que te dé su propio BAA, revisado por una persona abogada de EE. UU.
 3. **Ley nueva.** La LFPDPPP vigente es de 2025 (DOF 20-03-2025, última reforma DOF 14-11-2025). El Reglamento de 2011 se emitió bajo la ley anterior; revisa si hay un reglamento nuevo o disposiciones de la Secretaría Anticorrupción y Buen Gobierno.
 4. **Plazo de aviso de vulneraciones.** La ley pide que el responsable informe a los titulares de vulneraciones que afecten de forma significativa sus derechos. Pon un plazo corto para el encargado (24 a 72 horas) para que el responsable tenga tiempo de actuar.
 5. **Anexo B realista.** No copies una lista de medidas que el proveedor no tiene. Pide evidencia.

@@ -117,9 +117,7 @@ La Parte que Recibe:
 
 **DÉCIMA TERCERA. <mark>[OPCIONAL]</mark> PENA CONVENCIONAL.**
 1. Si una Parte usa o revela Información Confidencial en violación de este convenio, pagará a la otra Parte, como pena convencional, la cantidad de <mark>[MONTO]</mark> pesos mexicanos por cada incumplimiento, según el artículo 1840 del Código Civil Federal.
-2. <mark>[ELIGE UNA OPCIÓN Y BORRA LA OTRA]</mark>
-   - **Opción A:** La pena convencional sustituye a los daños y perjuicios por ese mismo incumplimiento.
-   - **Opción B:** La pena convencional se pagará sin perjuicio de que la Parte afectada pueda demostrar y cobrar daños y perjuicios mayores, en lo que exceda el monto de la pena.
+2. La pena convencional sustituye a los daños y perjuicios por ese mismo incumplimiento. Según el artículo 1840 del Código Civil Federal, si se pacta una pena, no se pueden cobrar además daños y perjuicios por el mismo hecho. Si las Partes prefieren que se cobren los daños y perjuicios que se puedan probar, deben borrar esta cláusula completa.
 3. El pago de la pena no da derecho a seguir usando o revelando la información.
 
 **DÉCIMA CUARTA. AVISOS Y NOTIFICACIONES.**

@@ -45,7 +45,7 @@ Es el documento que pone por escrito las condiciones de trabajo entre una empres
 | Ley Federal del Trabajo | 24, 25 y 26 | Condiciones por escrito y datos obligatorios del contrato | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |
 | Ley Federal del Trabajo | 35 y 39-A | Relación por tiempo indeterminado y periodo de prueba | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |
 | Ley Federal del Trabajo | 47 | Causas de rescisión sin responsabilidad para el patrón | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |
-| Ley Federal del Trabajo | 59, 66 y siguientes | Jornada máxima (reforma 2026) y horas extra | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) · [Decreto DOF 01-05-2026](https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.pdf) |
+| Ley Federal del Trabajo | 59, 66 y siguientes; artículo cuarto transitorio del decreto | Jornada máxima (reforma 2026) y horas extra (límite gradual: 9 h en 2026–2027, 10 h en 2028, 11 h en 2029, 12 h desde 2030) | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) · [Decreto DOF 01-05-2026](https://www.diputados.gob.mx/LeyesBiblio/ref/lft/LFT_ref52_01may26.pdf) |
 | Ley Federal del Trabajo | 69 y 71 | Descanso semanal y prima dominical | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |
 | Ley Federal del Trabajo | 76 y 80 | Vacaciones y prima vacacional | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |
 | Ley Federal del Trabajo | 87 | Aguinaldo | [LFT](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf) |

@@ -119,9 +119,17 @@ Si las Partes no eligen esta cláusula, la relación no tiene periodo de prueba.
 **OCTAVA. HORAS EXTRA.**
 
 1. La jornada solo se puede ampliar por circunstancias extraordinarias y cuando la Empresa lo pida por escrito o por un medio electrónico que deje registro. La Persona Trabajadora no está obligada a trabajar horas extra más allá del límite legal.
-2. El límite es de **12 horas extra por semana**, conforme a la reforma de 2026.
-3. Las horas extra dentro del límite se pagan con un 100% más del salario de la hora normal (es decir, al doble).
-4. Las horas que pasen del límite de 12 por semana se pagan con un 200% más del salario de la hora normal (es decir, al triple).
+2. El límite de horas extra por semana es el que marca la LFT para cada año. Por la reforma de 2026, este límite sube poco a poco (artículo 66 y artículo cuarto transitorio del decreto publicado en el DOF el 1 de mayo de 2026):
+
+   | Año | Límite de horas extra por semana |
+   |---|---|
+   | 2026 y 2027 | 9 horas |
+   | 2028 | 10 horas |
+   | 2029 | 11 horas |
+   | 2030 en adelante | 12 horas |
+
+3. Las horas extra dentro del límite del año se pagan con un 100% más del salario de la hora normal (es decir, al doble).
+4. Las horas que pasen del límite del año se pagan con un 200% más del salario de la hora normal (es decir, al triple). Estas horas de más no pueden pasar de 4 por semana. Pasar el límite es una excepción: la Empresa no debe planear trabajo con horas por encima del límite legal.
 5. Todas las horas extra se registran en el sistema de la cláusula SÉPTIMA.
 6. Las personas menores de edad no pueden trabajar horas extra.
 
@@ -300,7 +308,9 @@ Las Partes leyeron este contrato, entendieron su contenido y lo firman en <mark>
 
 ---
 
-### ANEXO A. <mark>[OPCIONAL]</mark> Personas beneficiarias
+### ANEXO A. Personas beneficiarias (obligatorio)
+
+Este anexo es obligatorio: el artículo 25, fracción X, de la LFT pide que el contrato diga quiénes son las personas beneficiarias. No lo borres.
 
 La Persona Trabajadora designa como beneficiarias, para recibir los salarios y prestaciones pendientes en caso de fallecimiento o desaparición, a:
 

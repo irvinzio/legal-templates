@@ -4,13 +4,15 @@
 
 Es el contrato que firma una empresa (el **responsable**, quien decide sobre los datos) con un proveedor (el **encargado**, quien trata los datos solo por cuenta del responsable). En México, cuando el responsable entrega datos a un encargado se le llama **remisión**. Este contrato fija las reglas: el encargado solo usa los datos según las instrucciones del responsable, los protege, no los comparte y los devuelve o borra al terminar.
 
-Es el equivalente mexicano de un **«Data Processing Addendum» (DPA)** y también reemplaza al **«Business Associate Agreement» (BAA)** de Estados Unidos. En México **no existe HIPAA** (la ley de salud de EE. UU.). Aquí los datos de salud son **datos personales sensibles** y se protegen con la misma LFPDPPP, con reglas más estrictas. Por eso no necesitas un BAA: necesitas este contrato, con las medidas de seguridad reforzadas para datos sensibles.
+Es el equivalente mexicano de un **«Data Processing Addendum» (DPA)**. En México **no existe HIPAA** (la ley de salud de EE. UU.). Aquí los datos de salud son **datos personales sensibles** y se protegen con la misma LFPDPPP, con reglas más estrictas. Para una relación que solo se rige por la ley mexicana, no necesitas un BAA: necesitas este contrato, con las medidas de seguridad reforzadas para datos sensibles.
+
+> **Ojo:** este contrato cubre **solo la ley mexicana**. Si tu cliente está en Estados Unidos y está sujeto a HIPAA, la ley de ese país le puede exigir un BAA aunque tú estés en México. Este contrato **no sustituye** ese BAA; en ese caso, tu cliente necesitará un documento aparte, revisado por una persona abogada de EE. UU.
 
 ## ¿Cuándo usarla?
 
 - Tu empresa SaaS trata datos que sus clientes suben a la plataforma (tú eres el **encargado**; tu cliente es el **responsable**).
 - Tu empresa contrata un proveedor de nube, correo, CRM, nómina, soporte, analítica o desarrollo que tendrá acceso a datos personales (tú eres el **responsable**; tu proveedor es el **encargado**).
-- Un cliente te pide un DPA o un BAA: puedes ofrecer este contrato como versión mexicana.
+- Un cliente te pide un DPA: puedes ofrecer este contrato como versión mexicana. (Si te pide un BAA por HIPAA, lee el aviso de arriba.)
 - Necesitas autorizar a un **subencargado** (el proveedor de tu proveedor).
 - Tratas datos de salud por cuenta de un hospital, consultorio, aseguradora o laboratorio.
 
@@ -32,7 +34,7 @@ Es el equivalente mexicano de un **«Data Processing Addendum» (DPA)** y tambi�
 - **Devolución o supresión al terminar:** el encargado no se queda con los datos.
 - **Auditorías:** el responsable puede verificar que el encargado cumple.
 - **Transferencias y remisiones internacionales:** reglas cuando los datos se guardan o tratan fuera de México.
-- **Datos sensibles y de salud:** cláusula opcional con medidas reforzadas (en lugar de un BAA).
+- **Datos sensibles y de salud:** cláusula opcional con medidas reforzadas para datos de salud bajo la ley mexicana.
 
 ## Fundamento legal
 

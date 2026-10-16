@@ -209,7 +209,7 @@ b) Cada parte responde frente a la otra por los daños y perjuicios que le cause
 
 c) Cada parte indemnizará a la otra y la sacará en paz y a salvo de reclamaciones de titulares, autoridades o terceros, multas, sanciones y gastos razonables (incluidos honorarios de abogados) que se deriven de su propio incumplimiento.
 
-d) <mark>[OPCIONAL]</mark> **Pena convencional.** Si EL RECEPTOR usa los datos para finalidades no permitidas o los transfiere sin autorización, pagará a EL TRANSFERENTE una pena convencional de <mark>[MONTO]</mark>, conforme al artículo 1840 del Código Civil Federal, <mark>[ELIGE: además de los daños y perjuicios que se prueben / como única indemnización por ese incumplimiento]</mark>.
+d) <mark>[OPCIONAL]</mark> **Pena convencional.** Si EL RECEPTOR usa los datos para finalidades no permitidas o los transfiere sin autorización, pagará a EL TRANSFERENTE una pena convencional de <mark>[MONTO]</mark>, conforme al artículo 1840 del Código Civil Federal. Esta pena sustituye a los daños y perjuicios por ese mismo incumplimiento: por el mismo hecho no se pueden cobrar la pena y además daños y perjuicios. Si EL TRANSFERENTE prefiere cobrar los daños y perjuicios que pueda probar, debe borrar este inciso.
 
 ### DECIMOSÉPTIMA. TERMINACIÓN Y RESCISIÓN.
 

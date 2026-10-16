@@ -23,7 +23,7 @@ Son las reglas para usar un sitio web, una app o un software como servicio (SaaS
 - **Aceptación electrónica:** una casilla sin marcar y un botón. Es consentimiento expreso por medios electrónicos (CCF art. 1803; Código de Comercio art. 89 y siguientes). Guarda la evidencia de la aceptación.
 - **Información antes de contratar:** precio total, frecuencia de cobro, renovación, formas de pago y cómo cancelar. Es parte de los derechos del consumidor en el comercio electrónico (LFPC art. 76 bis).
 - **Precios en pesos con IVA incluido para consumidores.** Sin cargos sorpresa.
-- **Suscripciones y renovación automática** explicadas de forma clara, con recordatorio antes de renovar planes anuales.
+- **Suscripciones y renovación automática** explicadas de forma clara, con aviso obligatorio de al menos 5 días naturales antes de **cada** renovación automática (LFPC art. 76 Bis, fracción VIII, reforma DOF 12-12-2025).
 - **Cancelación sencilla:** en cualquier momento, por el mismo medio en que se contrató, sin penalización y con folio de confirmación.
 - **Derechos del consumidor, Profeco y Concilianet:** cómo reclamar y a dónde acudir.
 - **Propiedad intelectual y contenido del usuario:** el contenido sigue siendo del usuario; solo recibimos una licencia limitada para prestar el servicio.
@@ -34,7 +34,7 @@ Son las reglas para usar un sitio web, una app o un software como servicio (SaaS
 
 ### Consumidores y empresas: la diferencia importa
 
-- Un **consumidor** es quien usa el servicio como destinatario final, para uso personal, familiar o doméstico. Lo protege la **Ley Federal de Protección al Consumidor (LFPC)**. Sus derechos **no se pueden renunciar** y Profeco es la autoridad que los vigila. Con consumidores no puedes poner límites de responsabilidad que te liberen de tu responsabilidad civil, no puedes cambiar el contrato de forma unilateral y no puedes obligarlos a ir a tribunales extranjeros (LFPC art. 90).
+- Un **consumidor** es la persona física **o moral** que contrata el servicio como destinataria final (LFPC art. 2). Una empresa también puede ser consumidora; por ejemplo, si usa tu SaaS solo para su administración interna. No clasifiques a tus usuarios solo por ser empresas. Lo protege la **Ley Federal de Protección al Consumidor (LFPC)**. Sus derechos **no se pueden renunciar** y Profeco es la autoridad que los vigila. Con consumidores no puedes poner límites de responsabilidad que te liberen de tu responsabilidad civil, no puedes cambiar el contrato de forma unilateral y no puedes obligarlos a ir a tribunales extranjeros (LFPC art. 90).
 - Un **usuario empresarial** usa el servicio para su negocio. Con empresas hay más libertad para pactar: límites de responsabilidad, tribunales de una ciudad o arbitraje, precios antes de IVA. Aun así, nadie se puede liberar de la responsabilidad por dolo (Código Civil Federal). En algunos casos la LFPC también protege a ciertas empresas, por ejemplo micro y pequeñas; si tus clientes son negocios pequeños, revísalo con Profeco o con una persona abogada.
 - La plantilla tiene cláusulas separadas para cada tipo. Si dudas si un usuario es consumidor, aplica la regla más favorable para él.
 
@@ -46,7 +46,8 @@ La LFPC prevé que **ciertos contratos de adhesión deben registrarse ante Profe
 
 | Ley | Artículos | Para qué sirve | Enlace oficial |
 |---|---|---|---|
-| Ley Federal de Protección al Consumidor (LFPC) | 76 bis | Derechos del consumidor en comercio electrónico | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf |
+| Ley Federal de Protección al Consumidor (LFPC) | 2 | Quién es consumidor (incluye personas morales que son destinatarias finales) | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf |
+| Ley Federal de Protección al Consumidor (LFPC) | 76 bis | Derechos del consumidor en comercio electrónico; fracción VIII: aviso de 5 días naturales antes de una renovación automática | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf · [Decreto DOF 12-12-2025](https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc/LFPC_ref33_12dic25.pdf) |
 | Ley Federal de Protección al Consumidor | 85 a 90 | Contratos de adhesión; cláusulas que no son válidas (art. 90) | https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf |
 | Código de Comercio | 89 a 114 | Comercio electrónico, mensajes de datos y firma electrónica | https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf |
 | Código de Comercio | 1415 y siguientes | Arbitraje comercial (solo usuarios empresariales) | https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf |
@@ -73,6 +74,7 @@ Otras fuentes oficiales útiles:
 - [ ] Guardas evidencia de cada aceptación (fecha, hora, versión, cuenta).
 - [ ] Los precios para consumidores están en pesos y con IVA incluido.
 - [ ] La renovación automática y el periodo de prueba se explican antes de pagar.
+- [ ] Tu sistema envía el aviso de renovación al menos 5 días naturales antes de **cada** cobro automático (mensual o anual).
 - [ ] Cancelar es tan fácil como contratar y se confirma con un folio.
 - [ ] No agregaste cláusulas que el art. 90 de la LFPC declara no válidas.
 - [ ] Preguntaste a Profeco si tu giro debe registrar el contrato de adhesión.

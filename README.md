@@ -15,7 +15,7 @@ Este proyecto se inspira en [General-Legal/legal-templates](https://github.com/G
 | [Aviso de privacidad integral](templates/aviso-de-privacidad-integral/) | Informar a las personas qué datos tratas, para qué y cómo ejercer sus derechos ARCO | Privacy Policy |
 | [Aviso de privacidad simplificado](templates/aviso-de-privacidad-simplificado/) | Versión corta para formularios y apps | — |
 | [Aviso de cookies](templates/aviso-de-cookies/) | Informar el uso de cookies y otras tecnologías de rastreo | Cookie Notice |
-| [Contrato de encargado de datos personales](templates/contrato-de-encargado-de-datos-personales/) | Cuando un proveedor trata datos por cuenta de tu empresa | Data Processing Addendum / BAA |
+| [Contrato de encargado de datos personales](templates/contrato-de-encargado-de-datos-personales/) | Cuando un proveedor trata datos por cuenta de tu empresa | Data Processing Addendum (no sustituye un BAA de HIPAA) |
 | [Convenio de transferencia de datos personales](templates/convenio-de-transferencia-de-datos-personales/) | Cuando compartes datos con otra empresa que los usará para sus propios fines | Data Processing Addendum (Global) |
 
 ### Laboral y equipo
@@ -64,7 +64,8 @@ Las plantillas están en Markdown para que sean fáciles de leer, de comparar co
 ## Cambios importantes en la ley que estas plantillas ya consideran
 
 - **Nueva Ley Federal de Protección de Datos Personales en Posesión de los Particulares** (DOF 20 de marzo de 2025). Sustituyó a la ley de 2010. El INAI desapareció; ahora la autoridad es la **Secretaría Anticorrupción y Buen Gobierno**.
-- **Reforma laboral de 40 horas** (Constitución, DOF 3 de marzo de 2026; Ley Federal del Trabajo, DOF 1 de mayo de 2026). La jornada baja poco a poco: 48 horas en 2026, 46 en 2027, 44 en 2028, 42 en 2029 y 40 en 2030. También pide un registro electrónico de la jornada.
+- **Reforma laboral de 40 horas** (Constitución, DOF 3 de marzo de 2026; Ley Federal del Trabajo, DOF 1 de mayo de 2026). La jornada baja poco a poco: 48 horas en 2026, 46 en 2027, 44 en 2028, 42 en 2029 y 40 en 2030. El límite de horas extra sube de 9 por semana (2026 y 2027) a 12 por semana (2030). También pide un registro electrónico de la jornada.
+- **Renovaciones automáticas** (LFPC, DOF 12 de diciembre de 2025): se debe avisar al consumidor al menos 5 días naturales antes de cada renovación automática.
 - **Vacaciones dignas** (DOF 27 de diciembre de 2022): 12 días de vacaciones desde el primer año.
 - **Reforma de subcontratación** (2021): se prohíbe subcontratar personal; solo se permiten servicios especializados con registro en el REPSE.
 

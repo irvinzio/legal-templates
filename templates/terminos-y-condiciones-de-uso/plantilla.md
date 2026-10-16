@@ -44,8 +44,8 @@ Estos Términos aplican al sitio web <mark>[DIRECCIÓN DEL SITIO WEB]</mark>, a 
 El Proveedor te da acceso al Servicio, que consiste en <mark>[DESCRIBE EL SERVICIO EN 2 O 3 FRASES, POR EJEMPLO: una plataforma en línea para crear y enviar facturas]</mark>, según el plan que elijas y estos Términos.
 
 **SEGUNDA. TIPOS DE USUARIO.**
-1. **Consumidor:** persona que usa el Servicio como destinataria final, para uso personal, familiar o doméstico. Los consumidores tienen todos los derechos que les da la Ley Federal de Protección al Consumidor (LFPC). Esos derechos no se pueden renunciar. Nada en estos Términos los limita.
-2. **Usuario empresarial:** persona física con actividad empresarial o persona moral que usa el Servicio para su negocio. Algunas cláusulas tienen reglas especiales para usuarios empresariales; cuando es así, se dice de forma expresa.
+1. **Consumidor:** persona física o moral que contrata el Servicio como **destinataria final**, según el artículo 2 de la LFPC. Una empresa también puede ser consumidora, por ejemplo cuando usa el Servicio para su propia administración interna y no para revenderlo o integrarlo en lo que produce o vende a otros. Los consumidores tienen todos los derechos que les da la Ley Federal de Protección al Consumidor (LFPC). Esos derechos no se pueden renunciar. Nada en estos Términos los limita.
+2. **Usuario empresarial:** persona física o moral que **no** es consumidora según la LFPC; por ejemplo, porque integra el Servicio en sus procesos de producción, transformación, comercialización o en servicios que presta a terceros. Algunas cláusulas tienen reglas especiales para usuarios empresariales; cuando es así, se dice de forma expresa. Estas reglas especiales nunca se aplican a quien la LFPC considera consumidor, aunque sea una empresa.
 3. Si hay duda sobre si un Usuario es consumidor, se aplicará la regla más favorable para el Usuario.
 
 **TERCERA. INFORMACIÓN ANTES DE CONTRATAR.**
@@ -90,7 +90,7 @@ Si no cumples esta cláusula, podremos suspender o cancelar tu cuenta según la 
 **OCTAVA. SUSCRIPCIONES Y RENOVACIÓN AUTOMÁTICA.**
 1. Algunos planes son suscripciones <mark>[ELIGE: mensuales / anuales / mensuales o anuales]</mark>.
 2. **Renovación automática.** La suscripción se renueva de forma automática al final de cada periodo, por el mismo plazo, y cobraremos el precio vigente a la forma de pago que registraste, salvo que canceles antes. Esto se te informará de forma clara antes de contratar.
-3. **Aviso antes de renovar.** <mark>[OPCIONAL, RECOMENDADO PARA PLANES ANUALES]</mark> Te enviaremos un recordatorio por correo electrónico por lo menos <mark>[NÚMERO, POR EJEMPLO: 7]</mark> días antes de cada renovación anual, con la fecha y el monto del cobro.
+3. **Aviso antes de renovar.** Antes de **cada** renovación automática (mensual, anual o de cualquier otro periodo), te enviaremos un aviso por correo electrónico por lo menos <mark>[NÚMERO, NUNCA MENOS DE 5]</mark> días naturales antes, con la fecha y el monto del cobro. Podrás cancelar antes de la renovación sin ninguna penalización. Así lo pide el artículo 76 Bis, fracción VIII, de la LFPC (reforma publicada en el DOF el 12 de diciembre de 2025).
 4. **Periodos de prueba.** Si ofrecemos una prueba gratis, te diremos antes cuándo termina y cuánto se cobrará después. <mark>[ELIGE: Al terminar la prueba no se cobrará nada sin que confirmes que quieres seguir. / Al terminar la prueba se cobrará el plan elegido, salvo que canceles antes; te avisaremos NÚMERO días antes de que termine.]</mark>
 
 **NOVENA. CANCELACIÓN SENCILLA.**

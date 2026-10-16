@@ -19,6 +19,10 @@ Esta plantilla trae **cuatro versiones**. Usa la que se ajuste al lugar donde pi
 
 <mark>[RAZÓN SOCIAL]</mark> (<mark>[NOMBRE COMERCIAL]</mark>), con domicilio en <mark>[DOMICILIO COMPLETO]</mark>, es responsable del uso de los datos personales que nos das en este formulario.
 
+**¿Qué datos usamos?**
+
+<mark>[LISTA DE DATOS, por ejemplo «nombre, correo electrónico, teléfono, empresa y puesto»]</mark>. <mark>[ELIGE: No pedimos datos personales sensibles. / Pedimos estos datos sensibles: [LISTA]. Para usarlos necesitamos tu consentimiento expreso y por escrito.]</mark>
+
 **¿Para qué usamos tus datos?**
 
 Para estas finalidades, que son necesarias para atender tu solicitud:
@@ -60,7 +64,11 @@ Lee nuestro aviso de privacidad integral en <mark>[ENLACE AL AVISO INTEGRAL]</ma
 
 **Tu privacidad**
 
-<mark>[NOMBRE COMERCIAL]</mark> (<mark>[RAZÓN SOCIAL]</mark>, <mark>[CIUDAD]</mark>, México) usa tus datos para:
+<mark>[NOMBRE COMERCIAL]</mark> (<mark>[RAZÓN SOCIAL]</mark>), con domicilio en <mark>[DOMICILIO COMPLETO]</mark>, es responsable de tus datos personales.
+
+**Datos que usamos:** <mark>[LISTA DE DATOS, por ejemplo «nombre, correo, teléfono, datos de uso de la app e identificador del dispositivo»]</mark>. <mark>[ELIGE: No usamos datos sensibles. / Usamos estos datos sensibles: [LISTA], solo con tu consentimiento expreso y por escrito.]</mark>
+
+Usamos tus datos para:
 
 - Crear tu cuenta y darte acceso a la app.
 - Prestarte el servicio y darte soporte.
@@ -89,7 +97,7 @@ Lee el aviso completo, tus derechos ARCO y cómo revocar tu consentimiento en: <
 
 *Para espacios de muy pocas líneas. Debe tener un enlace o código QR al aviso integral.*
 
-> <mark>[NOMBRE COMERCIAL]</mark> (<mark>[RAZÓN SOCIAL]</mark>) usa tus datos para darte el servicio <mark>[Y, si aceptas, para enviarte promociones]</mark>. Aviso completo: <mark>[ENLACE CORTO O CÓDIGO QR]</mark>
+> <mark>[NOMBRE COMERCIAL]</mark> (<mark>[RAZÓN SOCIAL]</mark>, domicilio: <mark>[DOMICILIO COMPLETO]</mark>) usa tus datos <mark>[LISTA CORTA, por ejemplo «nombre y correo»]</mark> para darte el servicio <mark>[Y, si aceptas, para enviarte promociones]</mark>. Aviso completo: <mark>[ENLACE CORTO O CÓDIGO QR]</mark>
 >
 > ☐ No quiero promociones.
 
@@ -99,7 +107,7 @@ Lee el aviso completo, tus derechos ARCO y cómo revocar tu consentimiento en: <
 
 **Texto para leer al inicio de una llamada:**
 
-> «Antes de continuar, le informamos que <mark>[RAZÓN SOCIAL]</mark>, con domicilio en <mark>[CIUDAD]</mark>, usará los datos que nos dé en esta llamada para <mark>[FINALIDAD PRIMARIA, por ejemplo «atender su solicitud y darle seguimiento»]</mark>. Si usted lo permite, también los usaremos para enviarle información comercial. ¿Está de acuerdo en recibir información comercial?
+> «Antes de continuar, le informamos que <mark>[RAZÓN SOCIAL]</mark>, con domicilio en <mark>[DOMICILIO COMPLETO]</mark>, usará los datos que nos dé en esta llamada, como <mark>[LISTA DE DATOS, por ejemplo «su nombre, teléfono y correo»]</mark>, para <mark>[FINALIDAD PRIMARIA, por ejemplo «atender su solicitud y darle seguimiento»]</mark>. Si usted lo permite, también los usaremos para enviarle información comercial. ¿Está de acuerdo en recibir información comercial?
 >
 > Puede consultar nuestro aviso de privacidad completo en <mark>[DIRECCIÓN DEL SITIO WEB, dicha despacio]</mark>, o se lo enviamos por correo si lo prefiere. <mark>[OPCIONAL]</mark> Esta llamada puede ser grabada para fines de calidad.»
 
@@ -107,7 +115,7 @@ Lee el aviso completo, tus derechos ARCO y cómo revocar tu consentimiento en: <
 
 **Texto para imprimir en un formulario o gafete de evento:**
 
-> <mark>[RAZÓN SOCIAL]</mark>, con domicilio en <mark>[DOMICILIO]</mark>, usará tus datos para <mark>[FINALIDAD PRIMARIA, por ejemplo «registrar tu asistencia al evento y enviarte los materiales»]</mark>. Si lo aceptas, también para enviarte información comercial.
+> <mark>[RAZÓN SOCIAL]</mark>, con domicilio en <mark>[DOMICILIO COMPLETO]</mark>, usará tus datos (<mark>[LISTA DE DATOS, por ejemplo «nombre, correo, empresa y puesto»]</mark>) para <mark>[FINALIDAD PRIMARIA, por ejemplo «registrar tu asistencia al evento y enviarte los materiales»]</mark>. Si lo aceptas, también para enviarte información comercial.
 >
 > ☐ No acepto recibir información comercial.
 >
@@ -136,4 +144,5 @@ Lee el aviso completo, tus derechos ARCO y cómo revocar tu consentimiento en: <
 5. **Mismas finalidades.** Las finalidades del simplificado deben ser las mismas que las del integral. Si agregas una nueva, actualiza ambos.
 6. **Ley nueva.** La LFPDPPP vigente es de 2025. Los Lineamientos del Aviso de Privacidad (2013) y el Reglamento (2011) se emitieron bajo la ley anterior; revisa si hay nuevas disposiciones de la Secretaría Anticorrupción y Buen Gobierno sobre las modalidades del aviso.
 7. **Datos sensibles.** No uses el aviso simplificado para recabar datos sensibles sin un mecanismo de consentimiento expreso y por escrito.
-8. **Accesibilidad.** Usa letra legible, buen contraste y lenguaje sencillo. En apps, que el enlace al aviso completo sea fácil de tocar.
+8. **Contenido mínimo.** Cada versión debe decir, como mínimo: quién es el responsable y su domicilio completo, qué datos se usan (y cuáles son sensibles), para qué se usan y cómo negarse a las finalidades que no son necesarias, además de dónde leer el aviso integral. Si borras alguno de estos datos, el aviso queda incompleto.
+9. **Accesibilidad.** Usa letra legible, buen contraste y lenguaje sencillo. En apps, que el enlace al aviso completo sea fácil de tocar.
